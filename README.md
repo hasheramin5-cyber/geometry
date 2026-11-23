@@ -52,7 +52,8 @@ This project is a work in progress and will be updated continuously.
 
 ## License
 
-This repository uses two licenses:
+This repository uses three licenses:
 
 - **Code** (scripts and notebooks in `lab/`) is licensed under the [MIT License](LICENSE-MIT).
-- **Content** (theorems, proofs, notes, shape definitions and diagrams in `theory/` and `catalog/`) is licensed under [CC BY 4.0](LICENSE-CC-BY-4.0). Please credit "Hasher Amin" when reusing it.
+- **Theory** (notes, proofs and study material in `theory/`) is licensed under [CC BY 4.0](LICENSE-CC-BY-4.0). Please credit "Hasher Amin" when reusing it.
+- **Catalog** (original shapes, names, definitions and diagrams in `catalog/`) is **All Rights Reserved** under the [Catalog License](LICENSE-CATALOG). It may not be published or reused without written permission.

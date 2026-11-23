@@ -1,0 +1,48 @@
+Geometry Catalog License (All Rights Reserved)
+
+Copyright (c) 2026 Hasher Amin. All rights reserved.
+
+Scope
+-----
+This license applies to everything inside the `catalog/` folder of this
+repository, including but not limited to: original shape names, definitions,
+descriptions, properties, diagrams, sketches, images and any related text
+(together, the "Catalog Content").
+
+Permitted without asking
+------------------------
+You may:
+1. View and read the Catalog Content on GitHub.
+2. Fork the repository on GitHub, as allowed by the GitHub Terms of Service.
+3. Study the Catalog Content privately for personal, non-commercial learning.
+
+Prohibited without prior written permission
+-------------------------------------------
+Without the explicit prior written permission of the copyright holder, you may
+NOT:
+1. Publish, republish, distribute, or present the Catalog Content, or any
+   substantial part of it, in any medium (including papers, books, articles,
+   websites, social media, videos, courses and presentations).
+2. Reproduce, copy, modify, translate, or create derivative works from the
+   Catalog Content.
+3. Use the Catalog Content, including the names given to the shapes, for any
+   commercial purpose.
+4. Present the shapes, their names, or their definitions as your own work.
+5. Use the Catalog Content to train machine learning or AI models.
+
+Requesting permission
+---------------------
+To request permission, contact the copyright holder by opening an issue in this
+repository or through the GitHub profile "hasheramin5-cyber". Permission is
+valid only if given in writing, and any permitted use must include clear credit
+to "Hasher Amin" and a link to this repository.
+
+Other parts of this repository
+------------------------------
+Other folders are licensed separately. See the README.md file for details.
+
+Disclaimer
+----------
+THE CATALOG CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM ITS USE.
