@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# Testing Notebook for Theory, Lab and Catalog
+/testing_notebooks
